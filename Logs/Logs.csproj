@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>Logs</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="LogState\**" />
+    <EmbeddedResource Remove="LogState\**" />
+    <None Remove="LogState\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Diagnostics.EventLog" Version="8.0.0" />
+  </ItemGroup>
+</Project>

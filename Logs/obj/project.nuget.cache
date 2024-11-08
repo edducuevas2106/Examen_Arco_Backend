@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWNjvGPzmgQ=",
+  "success": true,
+  "projectFilePath": "C:\\Repositorio_Hits\\Examen\\Examen_dev\\Logs\\Logs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edduc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\edduc\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\obj\Debug\net6.0\DataInterfaces.csproj.AssemblyReference.cache
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\obj\Debug\net6.0\DataInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\obj\Debug\net6.0\DataInterfaces.AssemblyInfoInputs.cache
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\obj\Debug\net6.0\DataInterfaces.AssemblyInfo.cs
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\obj\Debug\net6.0\DataInterfaces.csproj.CoreCompileInputs.cache
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\bin\Debug\net6.0\DataInterfaces.deps.json
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\bin\Debug\net6.0\DataInterfaces.dll
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\bin\Debug\net6.0\DataInterfaces.pdb
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\bin\Debug\net6.0\Types.dll
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\bin\Debug\net6.0\Types.pdb
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\obj\Debug\net6.0\DataInte.F4BE6F61.Up2Date
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\obj\Debug\net6.0\DataInterfaces.dll
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\obj\Debug\net6.0\refint\DataInterfaces.dll
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\obj\Debug\net6.0\DataInterfaces.pdb
+C:\Repositorio_Hits\Examen\Examen_dev\DataInterfaces\obj\Debug\net6.0\ref\DataInterfaces.dll

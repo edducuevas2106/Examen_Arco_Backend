@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio_Hits\\Examen\\Examen_dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDF60BA-A7C3-4B66-BC91-DC2D02A29A9B}|DataLayer\\DataLayer.csproj|c:\\repositorio_hits\\examen\\examen_dev\\datalayer\\repository\\marcasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDF60BA-A7C3-4B66-BC91-DC2D02A29A9B}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\marcasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCE8794-2DE8-40D4-BB0B-B432D6637DCE}|Examen_dev\\Examen_dev.csproj|c:\\repositorio_hits\\examen\\examen_dev\\examen_dev\\config\\applicationdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCE8794-2DE8-40D4-BB0B-B432D6637DCE}|Examen_dev\\Examen_dev.csproj|solutionrelative:examen_dev\\config\\applicationdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADF1754-908C-4BEB-8B25-CE027E3E4D3B}|BussinesLayer\\BussinesLayer.csproj|c:\\repositorio_hits\\examen\\examen_dev\\bussineslayer\\services\\vehiculosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADF1754-908C-4BEB-8B25-CE027E3E4D3B}|BussinesLayer\\BussinesLayer.csproj|solutionrelative:bussineslayer\\services\\vehiculosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCE8794-2DE8-40D4-BB0B-B432D6637DCE}|Examen_dev\\Examen_dev.csproj|c:\\repositorio_hits\\examen\\examen_dev\\examen_dev\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCE8794-2DE8-40D4-BB0B-B432D6637DCE}|Examen_dev\\Examen_dev.csproj|solutionrelative:examen_dev\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Repositorio_Hits\\Examen\\Examen_dev\\Examen_dev\\Config\\ApplicationDependencyInjection.cs",
+              "RelativeDocumentMoniker": "Examen_dev\\Config\\ApplicationDependencyInjection.cs",
+              "ToolTip": "C:\\Repositorio_Hits\\Examen\\Examen_dev\\Examen_dev\\Config\\ApplicationDependencyInjection.cs",
+              "RelativeToolTip": "Examen_dev\\Config\\ApplicationDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:50:20.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarcasRepository.cs",
+              "DocumentMoniker": "C:\\Repositorio_Hits\\Examen\\Examen_dev\\DataLayer\\Repository\\MarcasRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Repository\\MarcasRepository.cs",
+              "ToolTip": "C:\\Repositorio_Hits\\Examen\\Examen_dev\\DataLayer\\Repository\\MarcasRepository.cs",
+              "RelativeToolTip": "DataLayer\\Repository\\MarcasRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:46:00.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Repositorio_Hits\\Examen\\Examen_dev\\Examen_dev\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "Examen_dev\\Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Repositorio_Hits\\Examen\\Examen_dev\\Examen_dev\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "Examen_dev\\Controllers\\VehiculosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:01:15.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiculosServices.cs",
+              "DocumentMoniker": "C:\\Repositorio_Hits\\Examen\\Examen_dev\\BussinesLayer\\Services\\VehiculosServices.cs",
+              "RelativeDocumentMoniker": "BussinesLayer\\Services\\VehiculosServices.cs",
+              "ToolTip": "C:\\Repositorio_Hits\\Examen\\Examen_dev\\BussinesLayer\\Services\\VehiculosServices.cs",
+              "RelativeToolTip": "BussinesLayer\\Services\\VehiculosServices.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvygAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:00:07.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
